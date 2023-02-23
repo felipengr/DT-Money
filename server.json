@@ -1,28 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-02-22T17:22:51.505Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-02-22T19:22:51.505Z"
-        },
-        {
-            "id": 3,
-            "description": "Igninte Rocketseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1100,
-            "createdAt": "2023-02-22T18:22:51.505Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-02-22T17:22:51.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-02-22T19:22:51.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Igninte Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1100,
+      "createdAt": "2023-02-22T18:22:51.505Z"
+    },
+    {
+      "description": "Bugfix app",
+      "price": 2000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-02-23T21:11:31.249Z",
+      "id": 4
+    },
+    {
+      "description": "Batata",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-23T21:42:53.027Z",
+      "id": 5
+    }
+  ]
 }
