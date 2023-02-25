@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-02-23T21:42:53.027Z",
       "id": 5
+    },
+    {
+      "description": "Cookie da fernanda",
+      "price": 8,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-25T00:01:52.155Z",
+      "id": 6
     }
   ]
 }
